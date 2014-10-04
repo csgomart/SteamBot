@@ -1,13 +1,13 @@
 {
 "Admins":["234567"],
-"ApiKey":"Steam API Key goes here!",
+"ApiKey":"EF05829CB9AC65620DA62F629DC83087!",
 "mainLog": "syslog.log",
 "UseSeparateProcesses": "false",
 "AutoStartAllBots": "true",
 "Bots": [
         {
-            "Username":"BOT USERNAME",
-            "Password":"BOT PASSWORD",
+            "Username":"csgomartbottest",
+            "Password":"password1",
             "DisplayName":"TestBot",
             "ChatResponse":"Hi there bro",
             "logFile": "TestBot.log",
